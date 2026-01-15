@@ -1,0 +1,6 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:iron_pickaxe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"cobblemon:exp_share","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"mega_showdown:ash_cap","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+]

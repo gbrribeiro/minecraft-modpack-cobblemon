@@ -1,0 +1,13 @@
+{
+    "debug": false,
+    "maxEntranceUses": 3,
+    "shardRewards": true,
+    "lapisBoostAmount": 1,
+    "ignoredSpecies": [],
+    "ignoredForms": [
+        "gmax"
+    ],
+    "minLevel": 10,
+    "maxLevel": 100,
+    "deriveAverageGymLevel": true
+}

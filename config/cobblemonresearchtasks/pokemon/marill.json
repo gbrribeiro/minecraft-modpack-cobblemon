@@ -1,0 +1,44 @@
+{
+  "species": "marill",
+  "dex": 183,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Azurill into Marill"
+    },
+    {
+      "id": "defeat_any_10",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 10,
+      "title": "Defeat Pokémon with Marill"
+    },
+    {
+      "id": "defeat_species_graveler",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "graveler",
+      "title": "Defeat Graveler with Marill"
+    },
+    {
+      "id": "defeat_type_poison_5",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 5,
+      "targetType": "poison",
+      "title": "Defeat Poison-type Pokémon with Marill"
+    },
+    {
+      "id": "level_up_10",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 10,
+      "title": "Level up Marill"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_10",
+    "defeat_species_graveler",
+    "defeat_type_poison_5",
+    "level_up_10"
+  ]
+}

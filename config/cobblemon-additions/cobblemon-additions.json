@@ -1,0 +1,145 @@
+{
+  "compat": {
+    "cobbledollars": "",
+    "sophisticatedbackpacks": "",
+    "cobblenav": "",
+    "travelersbackpack": "",
+    "waystones": ""
+  },
+  "datagen": {
+    "enableLootScan": false
+  },
+  "lootModWeights": {
+    "general/attic": [
+      {
+        "mod": "sophisticatedbackpacks",
+        "item": "sophisticatedbackpacks:upgrade_base",
+        "weight": 1
+      },
+      {
+        "mod": "cobblenav",
+        "item": "cobblenav:pokenav_item_base",
+        "weight": 1
+      },
+      {
+        "mod": "travelersbackpack",
+        "item": "travelersbackpack:iron_tier_upgrade",
+        "weight": 1
+      },
+      {
+        "air": true,
+        "weight": 35
+      }
+    ],
+    "general/bedroom": [
+      {
+        "mod": "sophisticatedbackpacks",
+        "item": "sophisticatedbackpacks:backpack",
+        "weight": 1
+      },
+      {
+        "mod": "cobblenav",
+        "item": "cobblenav:pokenav_item_base",
+        "weight": 1
+      },
+      {
+        "mod": "travelersbackpack",
+        "item": "travelersbackpack:iron",
+        "weight": 1
+      },
+      {
+        "mod": "waystones",
+        "item": "waystones:warp_scroll",
+        "weight": 8
+      },
+      {
+        "air": true,
+        "weight": 35
+      }
+    ],
+    "general/kitchen": [
+      {
+        "mod": "sophisticatedbackpacks",
+        "item": "sophisticatedbackpacks:backpack",
+        "weight": 1
+      },
+      {
+        "mod": "cobblenav",
+        "item": "cobblenav:pokefinder_item_black",
+        "weight": 1
+      },
+      {
+        "mod": "travelersbackpack",
+        "item": "travelersbackpack:red_sleeping_bag",
+        "weight": 2
+      },
+      {
+        "air": true,
+        "weight": 35
+      }
+    ],
+    "general/pokecenter": [
+      {
+        "mod": "sophisticatedbackpacks",
+        "item": "sophisticatedbackpacks:upgrade_base",
+        "weight": 4
+      },
+      {
+        "mod": "sophisticatedbackpacks",
+        "item": "sophisticatedbackpacks:backpack",
+        "weight": 1
+      },
+      {
+        "mod": "cobblenav",
+        "item": "cobblenav:pokenav_item_base",
+        "weight": 1
+      },
+      {
+        "mod": "travelersbackpack",
+        "item": "travelersbackpack:iron_tier_upgrade",
+        "weight": 1
+      },
+      {
+        "air": true,
+        "weight": 35
+      }
+    ],
+    "general/sittingroom": [
+      {
+        "mod": "sophisticatedbackpacks",
+        "item": "sophisticatedbackpacks:upgrade_base",
+        "weight": 1
+      },
+      {
+        "mod": "cobblenav",
+        "item": "cobblenav:pokenav_item_base",
+        "weight": 1
+      },
+      {
+        "mod": "travelersbackpack",
+        "item": "travelersbackpack:iron_tier_upgrade",
+        "weight": 1
+      },
+      {
+        "air": true,
+        "weight": 35
+      }
+    ]
+  },
+  "modCompatibility": {
+    "cobbledollars": "",
+    "sophisticatedbackpacks": "",
+    "cobblenav": "",
+    "travelersbackpack": "",
+    "waystones": "",
+    "fightorflight": "",
+    "cobblepedia": ""
+  },
+  "developerSettings": {
+    "enableLootScan": false,
+    "enableItemScan": false
+  },
+  "lootMultiplier": {
+    "lootRollMultiplierPercent": 100.0
+  }
+}

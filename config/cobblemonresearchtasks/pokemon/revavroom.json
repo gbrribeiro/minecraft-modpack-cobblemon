@@ -1,0 +1,58 @@
+{
+  "species": "revavroom",
+  "dex": 966,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Varoom into Revavroom"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Revavroom"
+    },
+    {
+      "id": "defeat_species_noctowl",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "noctowl",
+      "title": "Defeat Noctowl with Revavroom"
+    },
+    {
+      "id": "defeat_type_fighting_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Revavroom"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Revavroom"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Revavroom"
+    },
+    {
+      "id": "ride_3k",
+      "type": "RIDE_DISTANCE_BLOCKS",
+      "amount": 3000,
+      "title": "Ride Revavroom for 3000 blocks"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_noctowl",
+    "defeat_type_fighting_10",
+    "friendship_80",
+    "level_up_25",
+    "ride_3k"
+  ]
+}

@@ -1,0 +1,15 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:raw_gold"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simpletms:tr_gyroball"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblecuisine:red_bean"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simpletms:tr_supercellslam"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:emerald"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:power_bracer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:exp_candy_m"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"waystones:warp_plate","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"mega_showdown:dragoninite","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"cobblemon_utility:golden_cap","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"sophisticatedbackpacks:backpack","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"cobblemon_smartphone:red_smartphone","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+]

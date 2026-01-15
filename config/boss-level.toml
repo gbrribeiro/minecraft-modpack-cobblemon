@@ -1,0 +1,5 @@
+bossLevelMultiplier = 1.5
+minBossLevel = 5
+maxBossLevel = 900
+includePCPokemon = true
+scaleByMaxLevel = true

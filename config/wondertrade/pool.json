@@ -1,0 +1,9 @@
+{
+  "pokemon": [
+    "cobblemon:gloom form=normal level=17 shiny=false gender=MALE friendship=50 pokeball=cobblemon:poke_ball nature=cobblemon:timid ability=chlorophyll HP_iv=3 ATTACK_iv=0 DEFENCE_iv=23 SPECIAL_ATTACK_iv=5 SPECIAL_DEFENCE_iv=4 SPEED_iv=5 HP_ev=0 ATTACK_ev=0 DEFENCE_ev=0 SPECIAL_ATTACK_ev=0 SPECIAL_DEFENCE_ev=0 SPEED_ev=0",
+    "cobblemon:budew form=normal level=46 shiny=false gender=MALE friendship=50 pokeball=cobblemon:poke_ball nature=cobblemon:docile ability=naturalcure HP_iv=0 ATTACK_iv=21 DEFENCE_iv=22 SPECIAL_ATTACK_iv=4 SPECIAL_DEFENCE_iv=28 SPEED_iv=21 HP_ev=0 ATTACK_ev=0 DEFENCE_ev=0 SPECIAL_ATTACK_ev=0 SPECIAL_DEFENCE_ev=0 SPEED_ev=0",
+    "cobblemon:jumpluff form=normal level=49 shiny=false gender=FEMALE friendship=50 pokeball=cobblemon:poke_ball nature=cobblemon:impish ability=chlorophyll HP_iv=22 ATTACK_iv=19 DEFENCE_iv=14 SPECIAL_ATTACK_iv=30 SPECIAL_DEFENCE_iv=11 SPEED_iv=7 HP_ev=0 ATTACK_ev=0 DEFENCE_ev=0 SPECIAL_ATTACK_ev=0 SPECIAL_DEFENCE_ev=0 SPEED_ev=0",
+    "cobblemon:mudkip form=normal level=89 shiny=false gender=MALE friendship=50 pokeball=cobblemon:poke_ball nature=cobblemon:bashful ability=torrent HP_iv=18 ATTACK_iv=27 DEFENCE_iv=7 SPECIAL_ATTACK_iv=14 SPECIAL_DEFENCE_iv=29 SPEED_iv=28 HP_ev=0 ATTACK_ev=0 DEFENCE_ev=0 SPECIAL_ATTACK_ev=0 SPECIAL_DEFENCE_ev=0 SPEED_ev=0",
+    "cobblemon:magnemite form=normal level=79 shiny=false gender=GENDERLESS friendship=50 pokeball=cobblemon:poke_ball nature=cobblemon:careful ability=magnetpull HP_iv=2 ATTACK_iv=28 DEFENCE_iv=10 SPECIAL_ATTACK_iv=21 SPECIAL_DEFENCE_iv=5 SPEED_iv=17 HP_ev=0 ATTACK_ev=0 DEFENCE_ev=0 SPECIAL_ATTACK_ev=0 SPECIAL_DEFENCE_ev=0 SPEED_ev=0"
+  ]
+}

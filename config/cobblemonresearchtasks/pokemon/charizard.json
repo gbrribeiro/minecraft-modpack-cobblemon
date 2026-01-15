@@ -1,0 +1,58 @@
+{
+  "species": "charizard",
+  "dex": 6,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Charmeleon into Charizard"
+    },
+    {
+      "id": "defeat_any_30",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 30,
+      "title": "Defeat Pokémon with Charizard"
+    },
+    {
+      "id": "defeat_species_venonat",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "venonat",
+      "title": "Defeat Venonat with Charizard"
+    },
+    {
+      "id": "defeat_type_electric_20",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 20,
+      "targetType": "electric",
+      "title": "Defeat Electric-type Pokémon with Charizard"
+    },
+    {
+      "id": "friendship_120",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 120,
+      "title": "Reach 120+ friendship with Charizard"
+    },
+    {
+      "id": "level_up_30",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 30,
+      "title": "Level up Charizard"
+    },
+    {
+      "id": "ride_3k",
+      "type": "RIDE_DISTANCE_BLOCKS",
+      "amount": 3000,
+      "title": "Ride Charizard for 3000 blocks"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_30",
+    "defeat_species_venonat",
+    "defeat_type_electric_20",
+    "friendship_120",
+    "level_up_30",
+    "ride_3k"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "species": "golurk",
+  "dex": 623,
+  "tasks": [
+    {
+      "id": "evolve",
+      "type": "EVOLVE_THIS",
+      "title": "Evolve Golett into Golurk"
+    },
+    {
+      "id": "defeat_any_20",
+      "type": "DEFEAT_ANY_COUNT",
+      "amount": 20,
+      "title": "Defeat Pokémon with Golurk"
+    },
+    {
+      "id": "defeat_species_seaking",
+      "type": "DEFEAT_SPECIES",
+      "amount": 3,
+      "targetSpecies": "seaking",
+      "title": "Defeat Seaking with Golurk"
+    },
+    {
+      "id": "defeat_type_fighting_10",
+      "type": "DEFEAT_TYPE_COUNT",
+      "amount": 10,
+      "targetType": "fighting",
+      "title": "Defeat Fighting-type Pokémon with Golurk"
+    },
+    {
+      "id": "friendship_80",
+      "type": "FRIENDSHIP_AT_LEAST",
+      "friendship": 80,
+      "title": "Reach 80+ friendship with Golurk"
+    },
+    {
+      "id": "level_up_25",
+      "type": "LEVEL_UP_COUNT",
+      "amount": 25,
+      "title": "Level up Golurk"
+    },
+    {
+      "id": "ride_3k",
+      "type": "RIDE_DISTANCE_BLOCKS",
+      "amount": 3000,
+      "title": "Ride Golurk for 3000 blocks"
+    }
+  ],
+  "_known_tasks": [
+    "evolve",
+    "defeat_any_20",
+    "defeat_species_seaking",
+    "defeat_type_fighting_10",
+    "friendship_80",
+    "level_up_25",
+    "ride_3k"
+  ]
+}
