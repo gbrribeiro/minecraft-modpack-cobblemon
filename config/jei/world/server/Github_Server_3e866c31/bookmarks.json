@@ -11,5 +11,6 @@
   {"recipe":"mega_showdown:dragoninite","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
   {"recipe":"cobblemon_utility:golden_cap","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
   {"recipe":"sophisticatedbackpacks:backpack","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
-  {"recipe":"cobblemon_smartphone:red_smartphone","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+  {"recipe":"cobblemon_smartphone:red_smartphone","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"daycareplus:copper_incubator","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
 ]

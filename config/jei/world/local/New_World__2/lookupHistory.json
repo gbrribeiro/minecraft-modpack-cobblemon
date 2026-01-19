@@ -1,0 +1,9 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:enchanted_golden_apple"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:netherite_scrap","components":{"mega_showdown:registry_type_component":"mega","mega_showdown:registry_location_component":"mega_showdown:raichunitey","minecraft:custom_model_data":1168,"minecraft:item_name":"{\"extra\":[{\"color\":\"light_purple\",\"italic\":false,\"text\":\"raichunite Y\"}],\"italic\":false,\"text\":\"\"}"}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:netherite_scrap"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"mega_showdown:chandelurite","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"ingredient":{"id":"minecraft:netherite_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:ice_gem"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
